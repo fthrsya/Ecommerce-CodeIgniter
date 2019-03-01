@@ -1,4 +1,4 @@
-﻿# Welcome to StackEdit!
+﻿# Welcome Project!
 
 *The e-commerce site made using codeigniter freamwork within the scope of the project.*
 
