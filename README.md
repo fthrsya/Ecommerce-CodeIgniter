@@ -24,7 +24,7 @@
  - In admin panel settings edit email settings (for **e-mail send** )
  - Project database **db.sql** (example) - must be same name **database.php->database**
 
-## # CodeIgniter
+## What is CodeIgniter
 
  CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
 
