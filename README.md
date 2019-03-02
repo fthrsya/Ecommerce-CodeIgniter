@@ -1,6 +1,6 @@
 ﻿# Welcome Project!
 
-*The e-commerce site made using codeigniter freamwork within the scope of the project.*
+*The e-commerce site made using codeigniter freamework within the scope of the project.*
 
  - Php
  - CodeIgniter
